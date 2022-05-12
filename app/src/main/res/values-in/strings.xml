@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="splashscreen">Splashscreen</string>
+    <string name="search">Cari</string>
+    <string name="searchHint">Sebutan</string>
+    <string name="username">Sebutan</string>
+    <string name="name">Nama</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Perusahaan</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="language">Bahasa</string>
+    <string name="delete">Hapus</string>
+    <string name="favorite">Favorit</string>
+    <string name="alarm">Pemberitahuan</string>
+    <string name="repeating_alarm">Pemberitahaun Berulang</string>
+    <string name="alarm_time">Waktu Pemberitahuan</string>
+    <string name="setRepeatingAlarm">Buat Pemberitahuan Berulang</string>
+    <string name="reminder">9:00</string>
+    <string name="settings">Settings</string>
+</resources>

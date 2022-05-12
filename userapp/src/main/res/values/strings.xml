@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">UserApp</string>
+    <string name="splashscreen">splashscreen</string>
+    <string name="search">Search</string>
+    <string name="searchHint">Username</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="language">Language</string>
+    <string name="delete">Delete</string>
+    <string name="favorite">Favorite</string>
+    <string name="alarm">Alarm</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+    <string name="alarm_time">Alarm Time</string>
+    <string name="setRepeatingAlarm">Set Repeating Alarm</string>
+    <string name="reminder">9:00</string>
+    <string name="settings">Settings</string>
+</resources>
